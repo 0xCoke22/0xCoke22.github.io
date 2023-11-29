@@ -1,147 +1,64 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2023-11-29
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+title: Certified Red Team Professional (CRTP) Review
+subtitle: 'CRTP Cerifcate Reveiw'
+description: >-
+  Altered Security's Certified Red Team Professional (CRTP) is a beginner friendly hands-on red team certification. It is one of the most popular beginner Red Team certification. 
+image: >-
+  /assets/img/uploads/CRTP.png
+optimized_image: >-
+  /assets/img/uploads/CRTP.png
+category: blog
 tags:
-  - books
-  - read
-author: mranderson
+  - Review
+  - Certifcates
+author: Karim (Coke)
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## Introduction
+As a red teamer or as a penetration tester in general you're guaranteed to encounter active directory (AD). Almost every major organization uses Active Directory to manage the authentication and authorization of servers and workstations in their environment.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Active Directory (AD) can be considered a complex product, and managing it securely becomes increasingly difficult at a larger scale for this reason, AD is so interesting from an offensive perspective, you can take over an entire organization by just abusing simple misconfigurations and believe me when i tell you that taking over an organization will give an adrenaline rush and feeling of power that you gonna love it 😅
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+## Course
 
-<!--page-->
+The course describes itself as a "**Beginner Friendly**" course, supported by a lab environment and well explained videos,these videos are divided to three parts (Offensive Contnet,Defensive Content,Labs Walkthrough) totaling in 14 hours of video material😓.
 
-## Inline HTML elements
+The course outline of the following:
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+#### Offensive Side:
+* Domain Enumeration
+* Local Privilege Escalation
+* Lateral Movement
+* Domain Persistence
+* Domain Privilege Escalation
+* Cross-Forest Attacks
+* Forest Persistence
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+#### Defensive Side:
+* Defenses — Monitoring
+* Defenses and bypass — Architecture and Work Culture Changes
+* Defenses and Bypass — Deception
+* Defenses and Bypass — PowerShell
 
-Most of these elements are styled by browsers with few modifications on our part.
-
-<!--page-->
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-<!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+One thing you might notice is that the section on defense and detection is single-ended😥. This is an interesting feature, but it's not the course's primary selling point. This course will help you comprehend the "red" mindset, potential configuration vulnerabilities, and, to some extent, how to monitor and identify attacks on these faults if you're a blue team member trying to hone your AD defensive skills. The course materials alone should be sufficient for the majority of blue team members, though, as the exam is entirely focused on red.
 
 
+## Labs
+In my own opnion the lab enviroment was the best thing in the course. Overall,it’s the most stable and accessible lab environment I’ve seen so far.Every user has two options to access the labs either through VPN or through RDP access over Guacamole.The lab mimics a real world enterprise environment and the users need to rely on misconfigurations and feature abuse to challenge the lab.The architecture of the lab can be viewed below.
+![CRTP_Lab](/assets/img/uploads/CRTP_Lab.png)
+
+During solving the labs,you will use a lot of PowerShell-based tools but the as the content creator recommends and as I also recommend run through the labs a second time using Cobalt Strike or any C2 you like which will confront you with a whole range of new challenges and learnings. Due to the accessibility of the labs, it provides a great environment to test new tools and techniques as you discover them.
+
+## Exam
+I consider the CRTP certification exam is not one to underestimate but it's not hard also,you start the exam by having a low-privileged foothold on a machine and you need to esclate your privilges on that machine then you need to compromise other five machines and these machines are spreaded over multiple domains.you will have 24 hour to complete the exam and another 48 hour to wirte the report and submitting it.
 
 
+> You need to compromise all the five machines to pass the exam and don't worry every thing you need to pass the exam is within the course material.
 
-
-
-
-
-
+### Prepration Tips
+* Pick right timing to start the exam
+* Be comfortable wth the labs
+* Create your own cheat sheet
