@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/Mrx-Exploit.jpg
+photo: /assets/Profile.jpg
 name: Karim Mohamed
 display_name: Karim Mohamed (Coke)
 position: Cyber Security Conultant
