@@ -11,9 +11,9 @@ optimized_image: >-
   /assets/img/uploads/CRTP.png
 category: blog
 tags:
-  - review
-  - certifcates
-  - blog
+  - Review
+  - Certifcates
+  - Blog
 author: Karim (Coke)
 paginate: true
 ---
