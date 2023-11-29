@@ -9,13 +9,14 @@
         <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
           <svg><use xlink:href="#icon-twitter"></use></svg>
         </a>
+      {% endif %}
       {% if site.linkedin_username %}
         <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
     </p>
-
+    
     {% include links.html %}
 
 </footer>
