@@ -70,7 +70,7 @@ Here where the fun starts🤤,
 ### CRTO
 The labs are available online and require a subscription to Immersive Labs Cyber Ranges (SnapLabs) for the (CRTO). While not strictly required, this adds another expense to the course/exam package. You will be disappointed if you decide not to take part in the labs because this is one of the few chances you will have to use C2, especially in the event of a cobalt strike.According to my observations during the labs, they were extremely stable. However, when I attempted to take advantage of cross-forest attacks, I encountered some problems where the DC of one of the forests wasn't responding for some reason. Nevertheless, after an hour, for some reason, everything was back to normal😑.Subscription fees are £36 per month for 40 hours.
 
-
+![CRTO_Lab](/assets/img/CRTOvsCRTE/CRTO_Lab.png)
 
 ### CRTE
 The labs are hosted in Azure and can be accessed via VPN or RDP over Guacamole. They are accessible online and don't require a subscription. The cost you pay will cover both the course content and the labs.There is also a lab handbook that guides you through the lab material and demonstrates how to carry out the attacks; however, this frequently deviates (slightly) from what is said or shown in the videos.It's also important to note that Covenant C2 is used to guide you through the content in the CRTE manual.😉
