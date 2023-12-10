@@ -75,6 +75,8 @@ The labs are available online and require a subscription to Immersive Labs Cyber
 ### CRTE
 The labs are hosted in Azure and can be accessed via VPN or RDP over Guacamole. They are accessible online and don't require a subscription. The cost you pay will cover both the course content and the labs.There is also a lab handbook that guides you through the lab material and demonstrates how to carry out the attacks; however, this frequently deviates (slightly) from what is said or shown in the videos.It's also important to note that Covenant C2 is used to guide you through the content in the CRTE manual.😉
 
+![CRTE_Lab](/assets/img/CRTE/CRTE_Lab.png)
+
 ## Exam
 
 
