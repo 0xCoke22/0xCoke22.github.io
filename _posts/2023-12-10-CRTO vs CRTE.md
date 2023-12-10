@@ -7,9 +7,9 @@ tags:
   - Review 
   - Certifcates
 image: >- 
-  /assets/img/CRTE/CRTE.png
+  /assets/img/CRTOvsCRTE/godzilla-vs-kong.png
 optimized_image: >- 
-  /assets/img/CRTE/CRTE.png
+  /assets/img/CRTOvsCRTE/godzilla-vs-kong.png
 category: blog
 author: Karim (Coke)
 paginate: true
