@@ -79,5 +79,17 @@ The labs are hosted in Azure and can be accessed via VPN or RDP over Guacamole. 
 
 ## Exam
 
+### CRTO
+The goal of the CRTO exam is to gather at least six of the eight flags in a 48-hour period. You are free to divide these 48 hours up into 4 days of equal length, but doing so will need you to restart the labs and rebuild your beacons. Just the flag submission is required; there is no report requirement.
 
+#### Cons:
+The exam environment isn't stable enough because I had to reset the lab more than three times, which took a lot of time. In addition, I encountered another problem where the flags weren't present where they should have been, which required me to reset the lab once more😭.If you ever run into this issue, try resetting the admin box first. If that doesn't work, try resetting the entire environment. If that still doesn't work, your only option is to try emailing the support.
 
+### CRTE
+There are some slight restrictions on the CRTE exam. In order to pass the exam, you have to give up all the 5 machines over the course of 48 hours and deliver the report in another 48 hours😥.There is no option to pause the exam environment, in contrast to the CRTO.
+
+#### Cons:
+Unfortunately, the exam environment may become stale at some point, and you won't have the opportunity to pause like in the CRTO, so even if you are confident in your commands and attack, you may need to reset the lab because every minute of the exam is crucail to you.😬
+
+## Which One is Better ?
+The honest answer is both are great and have their strengths. I found the CRTE to be more challenging, but this was possibly due to the feeling of having less time to complete the tasks.If I had to pick just one, I would say go with CRTE, not because it's "better," but rather because of the information it offers regarding Active Directory overall, and not all businesses use a C2 framework. But I had more fun with CRTO. The time spent learning about C2 frameworks and experimenting with Cobalt Strike proved to be well worth it.
