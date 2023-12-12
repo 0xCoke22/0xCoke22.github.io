@@ -93,3 +93,7 @@ Unfortunately, the exam environment may become stale at some point, and you won'
 
 ## Which One is Better ?
 The honest answer is both are great and have their strengths. I found the CRTE to be more challenging, but this was possibly due to the feeling of having less time to complete the tasks.If I had to pick just one, I would say go with CRTE, not because it's "better," but rather because of the information it offers regarding Active Directory overall, and not all businesses use a C2 framework. But I had more fun with CRTO. The time spent learning about C2 frameworks and experimenting with Cobalt Strike proved to be well worth it.
+
+### Disclaimer
+
+If you want a longer and more detailed version of this blog go out and check nethan blog on the Volks with the following link : https://www.volkis.com.au/blog/crto-vs-crte/ and if you want more details about any of the courses go the course main website 😅
